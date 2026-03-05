@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
 
-[Скачать](#установка) • [Возможности](#-основные-возможности) 
+• [Скачать](#установка) • [Возможности](#-основные-возможности) 
 
 </div>
 
@@ -30,8 +30,6 @@
     * Современный, плавный и кастомизируемый UI/UX, которым действительно приятно пользоваться каждый день. Поддержка светлой и темной тем.
 * 📋 **Быстрое копирование**
     * Копирование логинов и паролей в буфер обмена в один клик с автоматической очисткой для вашей безопасности.
-                                                              ✨ *СКРИНШОТ* ✨
-   <img width="884" height="661" alt="Modern_KeyPass_lRYUAU4nR7" src="https://github.com/user-attachments/assets/cecc3172-1f18-4894-b3e0-40a4a2647498" />
 
 ## 🚀 Установка
 
